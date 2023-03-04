@@ -1,0 +1,13 @@
+{
+  "extends": [
+    "@rocketseat/eslint-config/node",
+    "prettier"
+  ],
+  "plugins": [
+    "@typescript-eslint",
+    "@typescript-eslint/internal",
+    "deprecation",
+    "eslint-comments",
+    "eslint-plugin"
+  ]
+}
